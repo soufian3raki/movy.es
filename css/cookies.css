@@ -1,0 +1,147 @@
+.u-cookies-consent {
+          background-image: none;
+        }
+
+        .u-cookies-consent .u-sheet-1 {
+          min-height: 212px;
+        }
+
+        .u-cookies-consent .u-layout-wrap-1 {
+          margin-top: 30px;
+          margin-bottom: 30px;
+        }
+
+        .u-cookies-consent .u-layout-cell-1 {
+          min-height: 152px;
+        }
+
+        .u-cookies-consent .u-container-layout-1 {
+          padding: 30px 60px;
+        }
+
+        .u-cookies-consent .u-text-1 {
+          margin: 11px 454px 0 0;
+        }
+
+        .u-cookies-consent .u-text-2 {
+          margin: 8px 158px 0 0;
+        }
+
+        .u-cookies-consent .u-layout-cell-2 {
+          min-height: 152px;
+        }
+
+        .u-cookies-consent .u-container-layout-2 {
+          padding: 30px;
+        }
+
+        .u-cookies-consent .u-btn-1 {
+          background-image: none;
+          border-style: none;
+          margin: 0 auto 0 0;
+        }
+
+        @media (max-width: 1199px) {
+          .u-cookies-consent .u-sheet-1 {
+            min-height: 131px;
+          }
+
+          .u-cookies-consent .u-layout-cell-1 {
+            min-height: 125px;
+          }
+
+          .u-cookies-consent .u-text-1 {
+            margin-right: 301px;
+          }
+
+          .u-cookies-consent .u-text-2 {
+            margin-right: 5px;
+          }
+
+          .u-cookies-consent .u-layout-cell-2 {
+            min-height: 125px;
+          }
+        }
+
+        @media (max-width: 991px) {
+          .u-cookies-consent .u-sheet-1 {
+            min-height: 106px;
+          }
+
+          .u-cookies-consent .u-layout-cell-1 {
+            min-height: 100px;
+          }
+
+          .u-cookies-consent .u-container-layout-1 {
+            padding-left: 30px;
+            padding-right: 30px;
+          }
+
+          .u-cookies-consent .u-text-1 {
+            margin-right: 156px;
+          }
+
+          .u-cookies-consent .u-text-2 {
+            margin-right: 0;
+          }
+
+          .u-cookies-consent .u-layout-cell-2 {
+            min-height: 100px;
+          }
+        }
+
+        @media (max-width: 767px) {
+          .u-cookies-consent .u-sheet-1 {
+            min-height: 225px;
+          }
+
+          .u-cookies-consent .u-layout-cell-1 {
+            min-height: 154px;
+          }
+
+          .u-cookies-consent .u-container-layout-1 {
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-bottom: 20px;
+          }
+
+          .u-cookies-consent .u-layout-cell-2 {
+            min-height: 65px;
+          }
+
+          .u-cookies-consent .u-container-layout-2 {
+            padding: 10px;
+          }
+        }
+
+        @media (max-width: 575px) {
+          .u-cookies-consent .u-sheet-1 {
+            min-height: 212px;
+          }
+
+          .u-cookies-consent .u-layout-cell-1 {
+            min-height: 152px;
+          }
+
+          .u-cookies-consent .u-container-layout-1 {
+            padding-bottom: 30px;
+            padding-left: 60px;
+            padding-right: 60px;
+          }
+
+          .u-cookies-consent .u-text-1 {
+            margin-right: 454px;
+          }
+
+          .u-cookies-consent .u-text-2 {
+            margin-right: 158px;
+          }
+
+          .u-cookies-consent .u-layout-cell-2 {
+            min-height: 152px;
+          }
+
+          .u-cookies-consent .u-container-layout-2 {
+            padding: 30px;
+          }
+        }
